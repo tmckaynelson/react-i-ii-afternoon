@@ -1,0 +1,9 @@
+.movie-list {
+    list-style-type: decimal;
+    width: 100%;
+}
+
+.movie-list li {
+    margin-left: 10%;
+    width: 100%
+}
